@@ -14,7 +14,6 @@
 
 <div align="center">  
 open to collaborations
-(especially llm research related)
   
 contact via linkedin
 <a href="https://www.linkedin.com/in/erik-lidman-hillbom/">linkedin.com/in/erik-lidman-hillbom</a>
